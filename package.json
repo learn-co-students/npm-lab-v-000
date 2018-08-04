@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-v-000",
+  "version": "1.0.0",
+  "description": "Testing package.json ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpeck71/npm-lab-v-000.git"
+  },
+  "author": "kpeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpeck71/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/kpeck71/npm-lab-v-000#readme"
+}
