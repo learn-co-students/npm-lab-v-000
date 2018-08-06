@@ -1,0 +1,30 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "Practice initializing a package.json file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecssiah/npm-lab-v-000.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript"
+  ],
+  "author": "Michael Chapman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecssiah/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/ecssiah/npm-lab-v-000#readme",
+  "dependencies": {
+    "learn-browser": "^0.1.17",
+    "moment": "^2.22.2"
+  }
+}
