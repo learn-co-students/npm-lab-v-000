@@ -12,4 +12,6 @@ function displayTime() {
 
 }
 
+// A Comment
+
 window.onload = displayTime()
