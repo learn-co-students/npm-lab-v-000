@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "learn test"
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ChristopherJamesN/npm-lab-v-000#readme",
   "dependencies": {
-    "learn-browser": "^0.1.17"
+    "learn-browser": "^0.1.17",
+    "moment": "^2.22.2"
   }
 }
