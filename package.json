@@ -1,0 +1,30 @@
+{
+  "name": "npm-lab-v-000",
+  "version": "1.0.0",
+  "description": "A lab for Learn.co",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FonzMP/npm-lab-v-000.git"
+  },
+  "keywords": [
+    "Learn",
+    "NPM",
+    "Node",
+    "Node",
+    "Package",
+    "Manager"
+  ],
+  "author": "Alex Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FonzMP/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/FonzMP/npm-lab-v-000#readme"
+}
