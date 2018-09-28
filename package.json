@@ -1,0 +1,27 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "An intro to npm and package.json",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo 'hot dog'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSavi/npm-lab-v-000.git"
+  },
+  "author": "CSavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSavi/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/CSavi/npm-lab-v-000#readme",
+  "dependencies": {
+    "learn-browser": "^0.1.17",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {}
+}
