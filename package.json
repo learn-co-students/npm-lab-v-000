@@ -1,0 +1,22 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabysurianosj/npm-lab-v-000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabysurianosj/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/gabysurianosj/npm-lab-v-000#readme"
+}
