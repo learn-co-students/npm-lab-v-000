@@ -1,0 +1,22 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "it's about cats",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwojo/npm-lab-v-000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnwojo/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/johnwojo/npm-lab-v-000#readme"
+}
