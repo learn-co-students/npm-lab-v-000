@@ -1,21 +1,13 @@
 {
   "name": "npm-lab-v-000",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "description": "",
-=======
   "description": "When using npm, it is often the case that we aren't familiar with _all_ of the\r code in the dependency tree. Building modern JavaScript applications relies on\r our ability to use the tools built for us by others.",
->>>>>>> 47b01da93326083e93a79eaea062567006039ca3
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-<<<<<<< HEAD
     "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
-=======
-    "test": "node node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
->>>>>>> 47b01da93326083e93a79eaea062567006039ca3
   },
   "repository": {
     "type": "git",
