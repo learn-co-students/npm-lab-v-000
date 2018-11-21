@@ -1,0 +1,26 @@
+{
+  "name": "npm-lab-v-000",
+  "version": "1.0.0",
+  "description": "When using npm, it is often the case that we aren't familiar with _all_ of the\r code in the dependency tree. Building modern JavaScript applications relies on\r our ability to use the tools built for us by others.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allisonkadel/npm-lab-v-000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allisonkadel/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/allisonkadel/npm-lab-v-000#readme",
+  "dependencies": {
+    "learn-browser": "^0.1.17",
+    "moment": "^2.22.2"
+  }
+}
