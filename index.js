@@ -12,4 +12,5 @@ function displayTime() {
 
 }
 
+
 window.onload = displayTime()
