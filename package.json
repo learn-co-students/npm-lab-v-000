@@ -1,0 +1,27 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "\"Run lab tests\"",
+  "main": "indexTest.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "learn-browser": "^0.1.23",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waasifkhaan/npm-lab-v-000.git"
+  },
+  "author": "Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waasifkhaan/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/waasifkhaan/npm-lab-v-000#readme"
+}
