@@ -1,0 +1,29 @@
+{
+  "name": "learn-npm-lab",
+  "version": "1.0.0",
+  "description": "learn npm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpkim921/npm-lab-v-000.git"
+  },
+  "keywords": [
+    "cat"
+  ],
+  "author": "jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpkim921/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/jpkim921/npm-lab-v-000#readme",
+  "dependencies": {
+    "learn-browser": "^0.1.23",
+    "moment": "^2.24.0"
+  }
+}
