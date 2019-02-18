@@ -13,3 +13,7 @@ function displayTime() {
 }
 
 window.onload = displayTime()
+
+function changesToPassTest() {
+  let change = 'boop';
+}
