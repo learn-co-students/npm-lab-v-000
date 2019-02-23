@@ -1,3 +1,4 @@
+var chai = require('chai');
 const expect = chai.expect;
 
 describe('index.js', function () {
