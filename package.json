@@ -1,0 +1,15 @@
+{
+  "name": "npm-lab-v-000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cernanb/npm-lab-v-000.git",
+  "author": "cernanb <<github email address>>",
+  "license": "MIT",
+  "dependencies": {
+    "learn-browser": "^0.1.24",
+    "moment": "^2.24.0"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  }
+}
