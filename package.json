@@ -1,0 +1,29 @@
+{
+    "name": "npm-lab-v-000",
+    "version": "1.0.0",
+    "description": "intro to npm lab",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/adam-barton/npm-lab-v-000.git"
+    },
+    "keywords": [
+        "npm"
+    ],
+    "author": "Adam Barton",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/adam-barton/npm-lab-v-000/issues"
+    },
+    "homepage": "https://github.com/adam-barton/npm-lab-v-000#readme",
+    "dependencies": {
+        "learn-browser": "^0.1.24",
+        "moment": "^2.24.0"
+    }
+}
