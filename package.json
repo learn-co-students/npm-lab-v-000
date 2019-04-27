@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/sabrina-jones/npm-lab-v-000#readme",
   "dependencies": {
-    "learn-browser": "^0.1.24"
+    "learn-browser": "^0.1.24",
+    "moment": "^2.24.0"
   }
 }
