@@ -1,8 +1,11 @@
 {
-  "name": "package.json",
+  "name": "npm-lab",
   "version": "1.0.0",
   "description": "package.json file",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "dependencies": {
     "learn-browser": "^0.1.24",
     "moment": "^2.24.0"
