@@ -1,0 +1,30 @@
+{
+  "name": "npm-lab-v-000",
+  "version": "1.0.0",
+  "description": "npm lab",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "learn-browser": "^0.1.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesilentc/npm-lab-v-000.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "james borocz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesilentc/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/thesilentc/npm-lab-v-000#readme"
+}
