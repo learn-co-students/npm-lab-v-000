@@ -1,4 +1,4 @@
-# Node Package Management Lab
+npm init# Node Package Management Lab
 
 
 ## Overview
