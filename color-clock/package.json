@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "A color-changing clock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "John Blank",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
