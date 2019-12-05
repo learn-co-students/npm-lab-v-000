@@ -1,0 +1,18 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "not sure",
+  "main": "y",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "david-forer"
+  },
+  "author": "david forer",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
