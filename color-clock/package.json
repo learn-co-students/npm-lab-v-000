@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "A Flatiron Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Hello World!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skmcloughlin/npm-lab-v-000.git"
+  },
+  "author": "Shaun McLoughlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skmcloughlin/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/skmcloughlin/npm-lab-v-000#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
