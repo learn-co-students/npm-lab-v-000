@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "npm lab package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "Mat",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
