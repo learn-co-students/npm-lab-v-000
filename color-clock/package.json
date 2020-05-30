@@ -1,0 +1,15 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "Colorize a clock display",
+  "main": "index.js",
+  "scripts": {
+    "test": "cowsay -e oO -T U 'Moo'"
+  },
+  "author": "William Barela",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0",
+    "moment": "^2.26.0"
+  }
+}
